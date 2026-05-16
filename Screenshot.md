@@ -26,7 +26,17 @@ After assigning the adapters i then opened up the virtual machines to assign the
 &nbsp;
 
 I first assighned the IP address for the windows machine. I opened up the properties of the internal networks ethernet.
+<img width="562" height="262" alt="intNetworkconfigwin1" src="https://github.com/user-attachments/assets/0b120fb9-cd56-4d2b-a27a-0e09d2217973" />
 
 &nbsp;
-<img width="562" height="262" alt="intNetworkconfigwin1" src="https://github.com/user-attachments/assets/0b120fb9-cd56-4d2b-a27a-0e09d2217973" />
+Then I selecetd IPv4 and assigned it the address 192.168.20.10
+<img width="757" height="456" alt="intNetconfigwin2" src="https://github.com/user-attachments/assets/298fad50-ce9c-4618-bfc1-7ae30ff70870" />
+
+&nbsp;
+Next I used the command ipconfig in the command prompt to test whether the address had be assigned.
+<img width="625" height="456" alt="intNetconfigwin3" src="https://github.com/user-attachments/assets/cbaad292-d0c1-437d-9e18-479aac296eab" />
+
+&nbsp;
+Next I did the same for the Kali Linux virtual machine. I selected Wired Connection 1 for the internal network.
+<img width="600" height="162" alt="Kalinetconfig1" src="https://github.com/user-attachments/assets/914eceab-5a19-4f5c-aebe-fec580f72b92" />
 
