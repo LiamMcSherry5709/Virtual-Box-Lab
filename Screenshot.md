@@ -45,3 +45,9 @@ And Assigned it the address 192.168.20.11.
 &nbsp;
 <img width="696" height="307" alt="Kalinetconfig2" src="https://github.com/user-attachments/assets/d86de2fb-bec4-4120-97e4-ef4c9aa39a19" />
 
+&nbsp;
+Then I opened the terminal and used the ifconfig command to test to see if the address had been assigned.
+<img width="647" height="497" alt="Kalinetconfig3" src="https://github.com/user-attachments/assets/178cb756-700c-4fce-936d-74d952569da3" />
+
+
+
