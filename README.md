@@ -22,4 +22,4 @@ My objective was to build an isolated virtualized cybersecurity lab, as to pefro
 - Kali Linux 
 
 ## Steps
-<a href="https://google.com">Screenshots</a>
+<a href="https://github.com/LiamMcSherry5709/Virtual-Box-Lab/blob/main/Screenshot.md">Screenshots</a>
