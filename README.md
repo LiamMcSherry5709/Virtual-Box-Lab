@@ -22,10 +22,4 @@ My objective was to build an isolated virtualized cybersecurity lab, as to pefro
 - Kali Linux 
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+<a href="https://google.com">Screenshots</a>
